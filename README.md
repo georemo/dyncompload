@@ -1,5 +1,7 @@
 # Dyncompload
 
+The project is an effort to use variables to load component. This can allow menu to load components to designated areas of the gui.  
+It should then be possible to develop components independently and deploy for loading. Leading to component installation capability.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
